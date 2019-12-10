@@ -56,7 +56,7 @@ export default class Index extends Component {
           <IntervalSlider
             marksArr={marksArr}
             maxValue={87}
-            minValue={20}
+            minValue={0}
             max={200}
             selectedColor='green'
             onChange={this.onChange.bind(this)}
@@ -65,7 +65,7 @@ export default class Index extends Component {
         <View className='item'>
           <IntervalSlider
             maxValue={87}
-            minValue={20}
+            minValue={0}
             max={200}
             selectedColor='red'
             onChange={this.onChange.bind(this)}
