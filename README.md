@@ -2,7 +2,9 @@
 基于taro开发的双向滑动slider，可用于区间选择
 
 <img src="https://fileserver.paat.com/2da/2daf73c15f599f37da1d28cd43971576.png" width="376" height="813">
+
 <br><br>
+
 ### 引入
 ```
 import IntervalSlider from '../../components/intervalSlider'
@@ -33,8 +35,8 @@ import IntervalSlider from '../../components/intervalSlider'
 
 // marksArr 结构
 [{
-  position: 0,
-  label: '0元'
+  position: 0, // 位置信息，取值范围0-100
+  label: '0元' // 标记显示的文本
 }, {
   position: 25,
   label: '250元'
@@ -50,7 +52,7 @@ import IntervalSlider from '../../components/intervalSlider'
 }]
 ```
 
-###参数说明
+### 参数说明
 ```
 min: Number 最小值
 max: Number 最大值
