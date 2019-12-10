@@ -11,7 +11,7 @@ import IntervalSlider from '../../components/intervalSlider'
 ```
 
 ### 使用
-####无标记的
+无标记的
 ```
 <IntervalSlider
   maxValue={87}
@@ -22,7 +22,7 @@ import IntervalSlider from '../../components/intervalSlider'
 />
 ```
 
-####有标记的
+有标记的
 ```
 <IntervalSlider
   marksArr={marksArr}
