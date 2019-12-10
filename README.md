@@ -1,7 +1,7 @@
 # taro-slider
 基于taro开发的双向滑动slider，可用于区间选择。
 
-<img src="https://fileserver.paat.com/3e7/3e70b563f55f4cc588fde84c84db4c20.png" width="376" height="813">
+<img src="https://fileserver.paat.com/db4/db4eba319dedf1bb2d3b5381eab4697c.png" width="365" height="359">
 
 <br><br>
 
