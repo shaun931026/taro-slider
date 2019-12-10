@@ -49,3 +49,14 @@ import IntervalSlider from '../../components/intervalSlider'
   label: '1000元'
 }]
 ```
+
+###参数说明
+```
+min: Number 最小值
+max: Number 最大值
+minValue: Number 当前最小值
+maxValue: Number 当前最大值
+bgColor: String 背景色
+selectedColor: String 选中色
+marksArr: Array 标记列表，不传此参则是普通的slider，该参数用来实现标记效果。
+```
