@@ -1,7 +1,7 @@
 # taro-slider
 基于taro开发的双向滑动slider，可用于区间选择
 
-< img  src = “ https://fileserver.paat.com/2da/2daf73c15f599f37da1d28cd43971576.png ”  宽度 = “ 376”  高度 = “ 813” >
+<img src="https://fileserver.paat.com/2da/2daf73c15f599f37da1d28cd43971576.png" width="376" height="813">
 <br><br>
 ### 引入
 ```
@@ -49,6 +49,7 @@ import IntervalSlider from '../../components/intervalSlider'
   label: '1000元'
 }]
 ```
+<<<<<<< HEAD
 
 ###参数说明
 ```
@@ -60,3 +61,5 @@ bgColor: String 背景色
 selectedColor: String 选中色
 marksArr: Array 标记列表，不传此参则是普通的slider，该参数用来实现标记效果。
 ```
+=======
+>>>>>>> 0fab21162480a655226a533cbdb6973db94a6331
