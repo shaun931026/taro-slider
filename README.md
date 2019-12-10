@@ -1,5 +1,5 @@
 # taro-slider
-基于taro开发的双向滑动slider，可用于区间选择
+基于taro开发的双向滑动slider，可用于区间选择。
 
 <img src="https://fileserver.paat.com/3e7/3e70b563f55f4cc588fde84c84db4c20.png" width="376" height="813">
 
@@ -11,7 +11,7 @@ import IntervalSlider from '../../components/intervalSlider'
 ```
 
 ### 使用
-无标记的
+####无标记的
 ```
 <IntervalSlider
   maxValue={87}
@@ -22,7 +22,7 @@ import IntervalSlider from '../../components/intervalSlider'
 />
 ```
 
-有标记的
+####有标记的
 ```
 <IntervalSlider
   marksArr={marksArr}
