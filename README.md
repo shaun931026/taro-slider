@@ -3,12 +3,12 @@
 
 < img  src = “ https://fileserver.paat.com/2da/2daf73c15f599f37da1d28cd43971576.png ”  宽度 = “ 376”  高度 = “ 813” >
 <br><br>
-## 引入
+### 引入
 ```
 import IntervalSlider from '../../components/intervalSlider'
 ```
 
-## 使用
+### 使用
 无标记的
 ```
 <IntervalSlider
@@ -32,7 +32,7 @@ import IntervalSlider from '../../components/intervalSlider'
 />
 
 // marksArr 结构
- [{
+[{
   position: 0,
   label: '0元'
 }, {
